@@ -1,6 +1,7 @@
 # 🚗 **Car Data Analysis (Python)** / still in progress
 
 ## 📄 Context
+This project aims to analyse a dataset of vehicle information to gain insights into vehicle characteristics, market trends and possible relationships between different vehicle features. The dataset contains information such as vehicle make, model, year of manufacture, engine data, fuel consumption, price and market segment.
 
 ---
 
