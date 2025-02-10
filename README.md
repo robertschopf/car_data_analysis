@@ -77,7 +77,7 @@ Beyond the core requirements, I enhanced my analysis by introducing the 'Total M
 ---
 
 ## 🔗 Links
-* [Google Colabs Notebook](https://colab.research.google.com/drive/1867ErT9_cWf1LzrVDklDDi1wnbPa-sc4?usp=sharing)
+* [Google Colabs Notebook](hhttps://colab.research.google.com/drive/1867ErT9_cWf1LzrVDklDDi1wnbPa-sc4?usp=sharing)
 
 ---
 
