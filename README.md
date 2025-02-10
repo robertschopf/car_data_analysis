@@ -1,4 +1,4 @@
-# 🚗 **Car Data Analysis (Python)** / still in progress
+# 🚗 **Car Data Analysis (Python)**
 
 ## 📄 Context
 A well-known car manufacturer has collected an extensive dataset of vehicle information, including make, model, engine specifications (including power, displacement and fuel type), fuel consumption (city and motorway), price and market segment. The company now wants to gain valuable insights by thoroughly analysing this dataset to make better, data-driven business decisions.
